@@ -7,7 +7,7 @@ action attribute either to another file ie send.php or using mailto action
 
 in the input must use type= email is the input are email, others may use text
 
-the attribute required must be used to make sure user will the form before submit, if the field left blank, error will appear.
+the attribute required must be used to make sure user fill the form before submit, if the field left blank, error will appear.
 
 
 for the preview button, i used to send to another page
