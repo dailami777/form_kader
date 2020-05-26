@@ -16,20 +16,20 @@
   <form action="/sendform.php" class="bg-light text-dark"><!-- you can use mailto:-->
 
     <div class="form-group">
-      <label for="name">Name: <font color="red">*</font></label>
+      <label for="name">Name <font color="red">*</font></label>
       <input type="text" class="form-control" id="name" name="name" required>
     </div>
     <div class="form-group">
-      <label for="email">Email:<font color="red">*</font></label>
+      <label for="email">Email<font color="red">*</font></label>
       <input type="email" class="form-control" id="email" name="email" required>
     </div>
     <div class="form-group">
-      <label for="subject">Subject:<font color="red">*</font></label>
+      <label for="subject">Subject<font color="red">*</font></label>
       <input type="text" class="form-control" id="subject" name="subject" required>
     </div>
 
     <div class="form-group">
-      <label for="Message">Message:<font color="red">*</font></label>
+      <label for="Message">Message<font color="red">*</font></label>
       <textarea class="form-control" id="message" name="message" rows="10" cols="30" required></textarea>
     </div>
     
